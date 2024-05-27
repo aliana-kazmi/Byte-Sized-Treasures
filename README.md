@@ -1,20 +1,6 @@
 # Bite Sized treasures
 
-Welcome to Byte-Sized Treasures! This repository is a curated collection of insights and notes on various topics as I delve into all aspects of computer science. Here, you'll find valuable information and practical knowledge about software development, data engineering, and various frameworks and tools for creating useful software.
-
-## Repository Navigation
-
-To navigate this repository, click on the links provided below to explore different topics and subfolders.
-### Databases
-- [[Databases]]
-- [[Characteristics of databases]]
-- [[Applications of databases]]
-- [[Relational Databases]]
-- [[ACID properties]]
-- [[Characteristics of DBMS]]
-- [[Architectures of DBMS]] 
-- [[Advantages and disadvantages of databases and DBMS over traditional file systems]]
-- [[Data independence]]
+Welcome to Byte-Sized Treasures! This repository is a curated collection of insights and notes on Obsidian related to various topics which I record as I delve into many aspects of computer science. Here, you'll find valuable information and practical knowledge about software development, data engineering, and various frameworks and tools for creating useful software.
 
 ## Contributing
 
