@@ -1,3 +1,4 @@
+# Databases
 ## What is Database (DB)?
 A database is an **Database is a 
 - collection of ***inter-related data*** which helps in **efficient retrieval, insertion and deletion of data from database  
@@ -18,9 +19,11 @@ Some examples of popular database software or DBMSs include  *Microsoft SQL Serv
 
 ### Important questions
 
--  [[Characteristics of databases]]
--  [[Applications of databases]]
+- [[Characteristics of databases]]
+- [[ACID properties]]
+- [[Relational Databases]]
 - [[Characteristics of DBMS]]
+- [[Applications of databases]]
 - [[Architectures of DBMS]] 
 - [[Advantages and disadvantages of databases and DBMS over traditional file systems]]
 - [[Data independence]]

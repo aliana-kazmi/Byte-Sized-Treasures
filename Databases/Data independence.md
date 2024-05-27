@@ -1,3 +1,4 @@
+# Data independence
 Data independence means a **change of data at one level should not affect another level.** Two types of data independence are present in this architecture: 
 
 1. **Physical Data Independence:** **Any change in the physical location of tables and indexes should not affect the conceptual level or external view of data.** This data independence is easy to achieve and implemented by most of the DBMS. 

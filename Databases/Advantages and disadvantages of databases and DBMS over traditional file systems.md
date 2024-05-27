@@ -1,13 +1,14 @@
-# Databases
+# Advantages and disadvantages of databases and DBMS over traditional file systems
+## Databases
 ### **Advantages**
--   **Reduced data redundancy.
--   Also, there are **reduced errors and increased consistency.
+-   **Reduced data redundancy.**
+-   Also, there are **reduced errors and increased consistency.**
 -   **Easier data integrity from application programs.
--   Improved **data access to users through the use of host and query languages.
+-   Improved **data access to users through the use of host and query languages.**
 -   Data security is also improved.
 -   Reduced data entry, storage, and retrieval costs.
 
-# DBMS
+## DBMS
 ### Advantages
 1. **Minimized redundancy and data consistency**: 
 	- Data is normalized in DBMS to **minimize the redundancy which helps in keeping data consistent** 

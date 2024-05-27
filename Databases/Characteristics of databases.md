@@ -1,3 +1,4 @@
+# Characteristics of databases
 Now, the major characteristics of a Database include:
 
 1. in providing the **database**:

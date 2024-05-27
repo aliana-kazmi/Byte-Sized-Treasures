@@ -1,3 +1,4 @@
+# Relational Databases
 ## Definition
 
 Relational databases are based on the relational model, which ==organizes data into tables with rows and columns.== These databases have been the standard choice for many applications due to their ==robust consistency, support for complex queries, and adherence to ACID properties (Atomicity, Consistency, Isolation, Durability).== 
