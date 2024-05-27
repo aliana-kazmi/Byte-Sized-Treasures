@@ -8,7 +8,7 @@ Contributions are welcome! If you have any insights, corrections, or new topics 
 
 ## License
 
-This project is licensed under the CC0-1.0 License. See the [CC0-1.0 LICENSE](https://github.com/aliana-kazmi/Byte-Sized-Treasures?tab=CC0-1.0-1-ov-file#)) file for more details.
+This project is licensed under the CC0-1.0 License. See the [CC0-1.0 LICENSE](https://github.com/aliana-kazmi/Byte-Sized-Treasures?tab=CC0-1.0-1-ov-file#) file for more details.
 
 ## Contact
 
