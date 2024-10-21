@@ -1,5 +1,5 @@
-site_name: obsidian-mkdocs template
-
+site_name: 
+byte-sized-treasures
 theme:
     name: 'material'
     palette:
