@@ -1,3 +1,4 @@
+# ACID Properties
 1. **Atomicity**: either **the entire transaction takes place at once or doesn’t happen at all**. There is no midway i.e. transactions do not occur partially. Each *transaction is considered as one unit and either runs to completion or is not executed at all.* Two operations of Atomicity are:
 	—Abort: If a transaction aborts, changes made to the database are not visible. 
 	—Commit: If a transaction commits, changes made are visible. 
