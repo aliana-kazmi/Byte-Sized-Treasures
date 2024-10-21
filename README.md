@@ -1,6 +1,6 @@
 # Bite Sized treasures
 
-Welcome to Byte-Sized Treasures! This repository is a curated collection of insights and notes on Obsidian related to various topics which I record as I delve into many aspects of computer science. Here, you'll find valuable information and practical knowledge about software development, data engineering, and various frameworks and tools for creating useful software.
+Welcome to Byte-Sized Treasures! This repository is a collection of insights and notes on Obsidian related to various topics which I record as I delve into many aspects of computer science. Here, you'll find valuable information and practical knowledge about software development, data engineering, and various frameworks and tools for creating useful software.
 
 ## Contributing
 
